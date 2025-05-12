@@ -1,16 +1,26 @@
-## Hi there 👋
+## Un gusto / Hi there
 
-<!--
-**ChristianMacias0/ChristianMacias0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A continuacion puedes encontrar información sobre mí, mis
+proyectos y mis intereses.
+----------------------------------------------------------
+Here you can find information about me, my projects, and 
+my interests.
 
-Here are some ideas to get you started:
+## Contenido / Content
+* [Información personal](#información-personal--personal-information)
+* [Proyectos](#proyectos)
+* [Intereses](#intereses)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Información personal / Personal Information
+* Nombre: Christian Javier Macias Mendoza
+* Ocupación: Estudiante de Ingenieria en Ciencias Computacionales
+* Lugar de residencia: Guayaquil, Ecuador
+* Sitio web: [N/A]
+  
+## Proyectos
+* [Lista de tus proyectos]
+  
+## Intereses
+* [Lista de tus intereses]
+
+
