@@ -1,8 +1,8 @@
 ## Un gusto / Hi there
 
 A continuacion puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
-----------------------------------------------------------
+proyectos y mis intereses. 
+/
 Here you can find information about me, my projects, and 
 my interests.
 
